@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EmployeePerformanceSystem
+Bundle-SymbolicName: EmployeePerformanceSystem
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: EmployeePerformanceSystem.jar,
+ PRINCE KASANA/Downloads/mysql-connector-java-8.0.27.jar
+Automatic-Module-Name: EmployeePerformanceSystem
+Bundle-RequiredExecutionEnvironment: JavaSE-17
